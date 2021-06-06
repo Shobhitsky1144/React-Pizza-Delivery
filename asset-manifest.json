@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Pizza-Delivery/static/css/main.bcb3566f.chunk.css",
+    "main.js": "/React-Pizza-Delivery/static/js/main.394994f4.chunk.js",
+    "main.js.map": "/React-Pizza-Delivery/static/js/main.394994f4.chunk.js.map",
+    "runtime-main.js": "/React-Pizza-Delivery/static/js/runtime-main.f56c57e3.js",
+    "runtime-main.js.map": "/React-Pizza-Delivery/static/js/runtime-main.f56c57e3.js.map",
+    "static/js/2.37b9efdb.chunk.js": "/React-Pizza-Delivery/static/js/2.37b9efdb.chunk.js",
+    "static/js/2.37b9efdb.chunk.js.map": "/React-Pizza-Delivery/static/js/2.37b9efdb.chunk.js.map",
+    "index.html": "/React-Pizza-Delivery/index.html",
+    "static/css/main.bcb3566f.chunk.css.map": "/React-Pizza-Delivery/static/css/main.bcb3566f.chunk.css.map",
+    "static/js/2.37b9efdb.chunk.js.LICENSE.txt": "/React-Pizza-Delivery/static/js/2.37b9efdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f56c57e3.js",
+    "static/js/2.37b9efdb.chunk.js",
+    "static/css/main.bcb3566f.chunk.css",
+    "static/js/main.394994f4.chunk.js"
+  ]
+}
