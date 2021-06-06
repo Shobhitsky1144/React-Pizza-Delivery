@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 const Header = () => {
   return (
-    <div className="banner">
+    <div className="banner" style={{ backgroundImage: "url(/img/bg.jpg)" }}>
       <Navbar />
       <div className="banner__content">
         <div className="container">
